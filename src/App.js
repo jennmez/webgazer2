@@ -1,11 +1,12 @@
 import React from 'react';
 import logo from './mintbean.png';
 import './styles/index.css';
+// import Webgazer from './webgazer';
 
 function App() {
   return (
     <div className="App">
-        <img src={logo} className="App-logo" alt="logo" />
+      {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>App.js</code> is the entrypoint to your app.
         </p>
@@ -17,7 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
     </div>
   );
 }
