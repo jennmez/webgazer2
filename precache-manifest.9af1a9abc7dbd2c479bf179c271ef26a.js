@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7bccd7c6ac3a75e15717d76b6489aaa",
+    "revision": "b1f3cd17a3e42279a34646bb6c2dad4c",
     "url": "/webgazer/index.html"
   },
   {
-    "revision": "ac215b9f033dbe60369b",
+    "revision": "e131d7e2dcaebb8dd418",
     "url": "/webgazer/static/css/main.75df9f48.chunk.css"
   },
   {
-    "revision": "75297f235858ffd564fe",
-    "url": "/webgazer/static/js/2.b12964f3.chunk.js"
+    "revision": "00ae04a680f941410865",
+    "url": "/webgazer/static/js/2.f800e76c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/webgazer/static/js/2.b12964f3.chunk.js.LICENSE.txt"
+    "url": "/webgazer/static/js/2.f800e76c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac215b9f033dbe60369b",
-    "url": "/webgazer/static/js/main.b31d3a16.chunk.js"
+    "revision": "e131d7e2dcaebb8dd418",
+    "url": "/webgazer/static/js/main.b4941a03.chunk.js"
   },
   {
     "revision": "b758286e996b950fc8e3",
