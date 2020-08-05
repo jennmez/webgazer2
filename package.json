@@ -1,5 +1,6 @@
 {
   "name": "webgazer",
+  "homepage": "https://jennmez.github.io/webgazer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
